@@ -1,9 +1,6 @@
 {
   "name": "transactions-api",
   "version": "1.0.0",
-  "engines": {
-    "node": "22.x"
-  },
   "description": "Simple Express and MongoDB transactions API",
   "main": "server.js",
   "scripts": {
@@ -14,7 +11,7 @@
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.18.3",
-    "mongodb": "^6.8.0"
+    "mongodb": "^6.21.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
