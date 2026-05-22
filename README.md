@@ -12,7 +12,9 @@
 7. How would you say you were prudent in this assignment?
    * I would say I was prudent in this assignment as I followed the directions in the master repository as to minimize possible errors that can occur, and I took time to ensure I had all the nessecary resources needed for the assignment. The only issues that happened were ones that were unforeseen.
 9. How would you say you need to be prudent when developing this kind of web application?
-10. URL of your deployed application as a link.
+    * People need to be prudent when developing this kind of web application because in the event that someone is not, there can be serious errors that can lead to information leaks of the users and issues with the database not properly storing information. 
+11. URL of your deployed application as a link.
     * [Transactions-API-Andrew](https://transactions-api-andrew-68f3e9b0e08f.herokuapp.com/)
 12. Screenshots of Postman making requests to your deployed application
-13. Screenshot
+    [Postman Screenshots](./Images/Postman)
+14. Screenshot
