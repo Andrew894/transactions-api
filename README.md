@@ -10,7 +10,7 @@
 5. What was the most difficult thing to do in this activity?
    * Getting Heroku properly connected to the repository and database, and deploying the application without errors 
 7. How would you say you were prudent in this assignment?
-   * I would say I was prudent in this assignment
+   * I would say I was prudent in this assignment as I followed the directions in the master repository as to minimize possible errors that can occur, and I took time to ensure I had all the nessecary resources needed for the assignment. The only issues that happened were ones that were unforeseen.
 9. How would you say you need to be prudent when developing this kind of web application?
 10. URL of your deployed application as a link.
     * [Transactions-API-Andrew](https://transactions-api-andrew-68f3e9b0e08f.herokuapp.com/)
