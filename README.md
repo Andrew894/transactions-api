@@ -16,5 +16,5 @@
 11. URL of your deployed application as a link.
     * [Transactions-API-Andrew](https://transactions-api-andrew-68f3e9b0e08f.herokuapp.com/)
 12. Screenshots of Postman making requests to your deployed application
-    [Postman Screenshots](./images/postman)
+    * [Postman Screenshots](./images/postman)
 14. Screenshot
